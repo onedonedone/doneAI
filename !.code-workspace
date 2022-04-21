@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\done\\private\\temp01--markdown"	
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Sarasa Fixed SC",
+		"markdown.styles": [
+			"C:\\done\\private\\temp01--markdown\\done.css"
+		],
+        "markdown.extension.print.theme": "light",
+		"editor.fontSize": 16,
+		"liveServer.settings.multiRootWorkspaceName": "testFiles",
+		"markdown.extension.toc.levels": "2..6",
+		"editor.insertSpaces": true,
+		"editor.tabSize": 4,
+		"markdown.extension.list.indentationSize": "inherit",
+		"markdown.extension.tableFormatter.enabled": false,
+		"markdown.extension.tableFormatter.normalizeIndentation": false,
+        "editor.detectIndentation": false,
+        "notebook.output.textLineLimit": 30,
+	}
+}
